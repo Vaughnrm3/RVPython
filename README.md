@@ -18,13 +18,6 @@ Income? Certain types of goods? Family status?
 
 **Tasks:**
 
- 4.2: Jupyter Fundamentals & Python Data Types
- 
-- Create project folder
-- Install required Python libraries
-- Create a notebook and import libraries
-- Practice coding using basic Python data types
-
  4.3: Introduction to Pandas
  
 - Download data and import into notebook as a pandas dataframe
